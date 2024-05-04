@@ -1,6 +1,6 @@
 ### I'm Nicolás 👋
 
-_nicosistemas_
+_@nicosistemas_
 
 #### I'm Systems Engineer 💻 | DevOps & Site Reliability Engineering (SRE pa' lo' pibes)
 
