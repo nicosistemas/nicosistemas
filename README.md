@@ -1,6 +1,7 @@
 ### I'm Nicolás 👋
 
 _@nicosistemas_
+🇦🇷 I from Argentina 🇦🇷 ⭐⭐⭐
 
 #### I'm Systems Engineer 💻 | DevOps & Site Reliability Engineering (SRE pa' lo' pibes)
 
@@ -31,5 +32,3 @@ Azure
 🐍 Python
 .Yaml
 ```
-
-🇦🇷 I from Argentina 🇦🇷 ⭐⭐⭐
