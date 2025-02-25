@@ -3,9 +3,14 @@
 _@nicosistemas_
 🇦🇷 I from Argentina 🇦🇷 ⭐⭐⭐
 
-#### I'm Systems Engineer 💻 | DevOps & Site Reliability Engineering (SRE pa' lo' pibes)
+#### I'm Systems Engineer 💻 | Site Reliability Engineering (SRE pa' lo' pibes)
 
 Love Linux
+
+🦅 Follow Observability: **Metrics, Logs, Traces**
+
+
+
 
 ✅ Certifications:
 
@@ -19,17 +24,19 @@ Kubernetes
 Docker
 Prometheus
 Grafana
+
+Kafka
+RabbitMQ
+Nginx
+Alloy
+Loki
+Tempo
+Thanos
+Krakend
+OpenTelemetry
+Blackbox
+
+Alerting: Opsgenie/Pagerduty, Alertmanager
+Cloud Platforms: AWS, Azure
 ```
 [Repo Docker Hub](https://hub.docker.com/repositories/nicosistemas)
-
-🌩️ Cloud Platforms: 
-```
-AWS
-Azure
-```
-
-: Coding:
-```
-🐍 Python
-.Yaml
-```
